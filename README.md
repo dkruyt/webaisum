@@ -1,6 +1,3 @@
-Here's the updated README.md with Unicode icons:
-
-```markdown
 # WebAISum 🌐🤖📝
 
 WebAISum is a Python script that allows you to summarize web pages using AI models. It supports both local models like Ollama and remote services like OpenAI.
