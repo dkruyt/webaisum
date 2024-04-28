@@ -1,0 +1,5 @@
+langchain==0.1.16
+langchain-community==0.0.34
+langchain_openai==0.1.4
+requests==2.31.0
+bs4==0.0.2
